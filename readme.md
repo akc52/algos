@@ -1,2 +1,2 @@
 # Algos
-Algorithums, brainteasers, n such
+Algorithms, brain teasers, n such.
